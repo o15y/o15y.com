@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "fs-extra";
+import { readFile, writeFile, copy } from "fs-extra";
 import { join } from "path";
 import { render } from "sass";
 import { minify } from "html-minifier";
@@ -10,6 +10,7 @@ const build = async () => {
   const scss = (await readFile(join(__dirname, "..", "styles.scss"))).toString();
   const css = <string> await renderScss(scss);
   const html = xhtml.replace("<!-- inject css -->", `<style>${css}</style>`);
+  await copy(join(__dirname, "..", "assets"), join(__dirname, "assets"));
   await writeFile(join(__dirname, "index.html"), minify(html, {
     collapseBooleanAttributes: true,
     collapseInlineTagWhitespace: true,
