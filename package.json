@@ -12,9 +12,15 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^5.1.0",
+    "@types/html-minifier": "^3.5.3",
     "@types/node": "^12.0.0",
+    "@types/sass": "^1.16.0",
     "fs-extra": "^7.0.1",
     "onchange": "^5.2.0",
     "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "sass": "^1.20.1"
   }
 }
