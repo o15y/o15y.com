@@ -6,10 +6,15 @@
   "repository": "git@github.com:o15y/o15y.com",
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc && node dist/build.js",
+    "watch": "onchange '*.{html,scss,ts,json}' -- yarn build"
+  },
   "devDependencies": {
     "@types/fs-extra": "^5.1.0",
     "@types/node": "^12.0.0",
     "fs-extra": "^7.0.1",
+    "onchange": "^5.2.0",
     "typescript": "^3.4.5"
   }
 }
