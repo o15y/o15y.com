@@ -1,0 +1,9 @@
+{
+  "name": "o15y.com",
+  "version": "0.1",
+  "description": "The landing page for O15Y",
+  "main": "dist/index.js",
+  "repository": "git@github.com:o15y/o15y.com",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT"
+}
