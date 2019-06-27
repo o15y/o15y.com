@@ -6,6 +6,7 @@ This is the landing page and temporary website for O15Y.
 [![GitHub](https://img.shields.io/github/license/o15y/o15y.com.svg)](https://github.com/o15y/o15y.com/blob/master/LICENSE)
 [![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/o15y/o15y.com.svg)](https://snyk.io/test/github/o15y/o15y.com)
 ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m782632881-bda8fbb84fa7194d74e9ac8b.svg)
+![Accessibility score](https://api.dai11y.com/api/audit-badge/accessibility/o15y/29)
 ![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)
 
 ## 🛠 Usage
