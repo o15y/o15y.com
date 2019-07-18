@@ -18,7 +18,7 @@
     "fs-extra": "^8.1.0",
     "html-minifier": "^4.0.0",
     "onchange": "^6.0.0",
-    "sass": "^1.22.5",
+    "sass": "^1.22.6",
     "typescript": "^3.5.3"
   }
 }
