@@ -19,6 +19,6 @@
     "html-minifier": "^4.0.0",
     "onchange": "^6.1.0",
     "sass": "^1.23.1",
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.2"
   }
 }
