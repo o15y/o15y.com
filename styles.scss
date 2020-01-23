@@ -8,3 +8,13 @@ header#masthead {
     display: block;
   }
 }
+
+.links {
+  font-size: 150%;
+  a {
+    margin-right: 0.5rem;
+  }
+  a.external-link::after {
+    display: none;
+  }
+}
