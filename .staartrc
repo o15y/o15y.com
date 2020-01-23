@@ -1,0 +1,13 @@
+{
+  "title": "O15Y",
+  "hostname": "https://o15y.com",
+  "themeColor": "#492257",
+  "textColor": "#130f40",
+  "linkColor": "#714880",
+  "lightColor": "#ffffff",
+  "googleAnalytics": "UA-XXX-XXX",
+  "agastyaApiKey": "o15y",
+  "twitterPublisher": "O15Y",
+  "twitterCreator": "AnandChowdhary",
+  "seoImage": "https://o15y.com/assets/smo.png"
+}
