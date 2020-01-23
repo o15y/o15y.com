@@ -1,13 +1,17 @@
 {
   "name": "o15y.com",
-  "version": "0.1",
+  "version": "1.0.0",
   "description": "The landing page for O15Y",
   "main": "dist/index.js",
   "repository": "git@github.com:o15y/o15y.com",
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc && node dist/build.js",
-    "watch": "onchange '*.{html,scss,ts,json}' -- yarn build"
+    "build": "site",
+    "serve": "site --serve",
+    "watch": "onchange '*.{html,scss,ts,json}' -- yarn site"
+  },
+  "devDependencies": {
+    "@staart/site": "^1.12.6"
   }
 }
