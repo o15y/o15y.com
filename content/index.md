@@ -1,6 +1,29 @@
 # Homepage
 
-This is the homepage
+We build, incubate, and grow digital businesses centered around communication technology.
+
+## Companies & projects
+
+- [Speakup](https://www.speakup.nl), cloud telephony and VoIP for businesses
+- [Oswald Labs](https://oswaldlabs.com), research-driven accessibility technology
+- [Ara](https://araassistant.com), AI-powered personal assistant for work
+- [Staart](https://staart.js.org), TypeScript starters for building SaaS startups
+
+## Program
+
+We work with high-impact startups and accelerate their growth through our incubation program. We also invest €10K to €100K in select early-stage startups from the program.
+
+Have an idea? Send us your pitch@o15y.com.
+
+## Our team
+
+O15Y was founded in 2019 by [Florian Overkamp](https://www.overkamp.co) and [Anand Chowdhary](https://anandchowdhary.com). Florian is the founder and Chief Entrepreneur of Speakup and Anand is the founder and CEO of Oswald Labs.
+
+Together, O15Y companies have a strength of over 30 people in the Netherlands and India.
+
+## Community
+
+We organize and sponsor startup events, hackathons, community meetups, educational competitions, and more. Our previous sponsorships include [NESST](http://stichtingnesst.nl) and [BharatHacks](https://bharathacks.github.io). We also believe in open innovation and devote part of our time to contributing to open-source projects.
 
 <section class="links">
   <a href="https://www.facebook.com/O15YVentures"><i class="fab fa-facebook" title="Facebook"></i></a>
