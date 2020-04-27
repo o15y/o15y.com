@@ -12,6 +12,6 @@
     "watch": "onchange '*.{html,scss,ts,json}' -- yarn site"
   },
   "devDependencies": {
-    "@staart/site": "^2.2.0"
+    "@staart/site": "^2.4.0"
   }
 }
